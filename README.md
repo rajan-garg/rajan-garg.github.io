@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
-
-Theme Name: MyResume
-Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
+<h2>Check out my page</h2>
+rajan-garg.github.io<br>
